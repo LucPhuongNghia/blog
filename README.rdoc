@@ -1,4 +1,4 @@
-== README - updated by Luc Phuong Nghia
+Test RAILS blog app by Luc Phuong Nghia
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
